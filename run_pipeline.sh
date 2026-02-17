@@ -8,7 +8,7 @@
 
 # ------------------------------- CONFIG -------------------------------------
 
-PROJECT_ROOT="house-price-predictor"
+PROJECT_ROOT="hprice-predictor"
 INPUT_RAW="data/raw/house_data.csv"
 CLEANED_DATA="data/processed/cleaned_house_data.csv"
 FEATURED_DATA="data/processed/featured_house_data.csv"
